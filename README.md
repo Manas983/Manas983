@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sahumanas983@gmail.com**
 
-- ⚡ Fun fact **i am funny**
+- ⚡ Fun fact **A Mechanical Engineer Turned IT Professional**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
