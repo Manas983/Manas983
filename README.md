@@ -1,8 +1,9 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif)]((https://github.com/Manas983))
+
 <h1 align="center">Hi 👋, I'm Manas kumar Sahu</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas983&label=Profile%20views&color=0e75b6&style=flat" alt="manas983" /> </p>
 
