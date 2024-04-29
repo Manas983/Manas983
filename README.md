@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif)]((https://github.com/Manas983))
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM/https://cdn.dribbble.com/users/970957/screenshots/5504725/gif)]((https://github.com/Manas983))
 
 <h1 align="center">Hi 👋, I'm Manas kumar Sahu</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
